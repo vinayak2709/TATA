@@ -1,5 +1,4 @@
-This project is about Detection process and Saving in the No SQL database and 
-simultaneously display detection video and Detection status.
+This project is about Bulk insertion and data validation process also Saving in the No SQL database & Azure cloud function apps.
 
 1.Clone the repository
 2.Add MongoDB connection string in the "Mongodb connection config file"
